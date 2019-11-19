@@ -23,7 +23,7 @@ $ python generator.py -n 1000000
 
 you will find a new created file in the same path called generated_logs.txt having the logs lines 
   
-##############################################################################################################
+##################################################################
 
 # Statistics Extractor
 This script extracts some statistice from the generated_logs.txt file
